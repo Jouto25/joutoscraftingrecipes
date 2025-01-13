@@ -3,8 +3,6 @@ This is a datapack that adds more crafting recipes to enhance Minecraft. I made 
 1. I wanted to do some datapack practice and figured a simple recipe datapack would be the best way to do it.
 2. I wanted a datapack/mod that would combine many of the mods that include QoL crafting recipes into one mod.
 
-**Please check the Gallery Tab so you can check the recipes the datapack adds.**
-
 With that in mind, here's all the recipes this datapack adds:
 
 - **Craftable Saddles**
