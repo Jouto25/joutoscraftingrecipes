@@ -62,6 +62,6 @@ With that in mind, here's all the recipes this datapack adds:
   
 New recipes may be added depending on my free time and user suggestions. Please suggest any new recipes on the GitHub.
 
-**This datapack is only hosted on CurseForge, Modrinth, and GitHub. Do not download this from other websites.**
+**This datapack is only hosted on CurseForge, Modrinth, Planet Minecaft, and GitHub. Do not download this from other websites.**
 
 
