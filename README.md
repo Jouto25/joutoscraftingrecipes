@@ -33,8 +33,8 @@ With that in mind, here's all the recipes this datapack adds:
 - **Blasting Netherrack into Nether Bricks**
   A faster route to nether bricks!
   
-- **Blasting Cobblestone to Stone**
-  Faster way to get stone.
+- **Blasting Stone**
+  A faster way to get stone and smooth stone!
   
 - **Stonecutting Amethyst Blocks to Amethyst Shards**
   Now you can get those shards another way. Keep in mind one block only cuts into one shard.
