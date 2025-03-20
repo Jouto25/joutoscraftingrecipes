@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting",
+  "category": "building",
+  "pattern": [
+    "bb",
+    "bb"
+  ],
+  "key": {
+    "b": "minecraft:brown_mushroom"
+  },
+  "result": {
+    "id": "minecraft:brown_mushroom_block",
+    "count": 1
+  },
+  "show_notification": false
+}
