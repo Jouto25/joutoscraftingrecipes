@@ -1,1 +1,7 @@
-{"pack":{"pack_format":15,"description":"An opinionated additional crafting recipes datapack."}}
+{
+  "pack": {
+    "pack_format": 15,
+	"supported_formats": [10, 15],
+    "description": "An opinionated datapack on additional crafting recipes for Minecraft."
+  }
+}
