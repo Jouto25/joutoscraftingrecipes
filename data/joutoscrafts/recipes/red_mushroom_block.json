@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crafting",
+  "category": "building",
+  "pattern": [
+    "mm",
+    "mm"
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:red_mushroom"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_mushroom_block",
+    "count": 1
+  },
+  "show_notification": true
+}
