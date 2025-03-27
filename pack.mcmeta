@@ -1,7 +1,28 @@
 {
   "pack": {
     "pack_format": 15,
-	"supported_formats": [10, 15],
-    "description": "An opinionated datapack on additional crafting recipes for Minecraft."
+    "description": "An opinionated datapack on additional crafting recipes for Minecraft.",
+	"supported_formats": {
+		"min_inclusive": 10,
+		"max_inclusive": 71
+		}
+	},
+  "overlays": {
+    "entries": [
+      {
+        "formats":{
+			"min_inclusive": 48,
+			"max_inclusive": 71
+		},
+        "directory": "overlay_48"
+      },
+	  {
+        "formats":{
+			"min_inclusive": 59,
+			"max_inclusive": 71
+		},
+        "directory": "overlay_59"
+      }
+    ]
   }
 }
